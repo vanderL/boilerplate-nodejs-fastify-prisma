@@ -24,7 +24,7 @@ Boilerplate Residência de Software
 Clone o projeto
 
 ```bash
-  git clone [git@git.cubos.io:resid-ncia-de-software/boilerplates/api-typescript-fastify-prisma.git](https://github.com/vanderL/boilerplate-nodejs-fastify-prisma.git)
+  git clone https://github.com/vanderL/boilerplate-nodejs-fastify-prisma.git
 ```
 
 Entre no diretório do projeto
@@ -94,11 +94,3 @@ Valores default
 ## Stack utilizada
 
 Node, Fastify, Vistest, Supertest, Docker
-=======
-  - npm i
-  - docker compose up -d
-  - npx prisma migrate dev
-  - npm run test
-  - npm run test:e2e
-  - npm run dev
->>>>>>> c6439407cf1b45f31f3baf406e8884ea1adcf2c2
