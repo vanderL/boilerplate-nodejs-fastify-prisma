@@ -93,4 +93,4 @@ Valores default
 
 ## Stack utilizada
 
-Node, Fastify, Vistest, Supertest, Docker
+Node, Fastify, Prisma, Vistest, Supertest, Docker
