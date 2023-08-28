@@ -23,9 +23,8 @@ Boilerplate Residência de Software
 
 Clone o projeto
 
-<<<<<<< HEAD
 ```bash
-  git clone git@git.cubos.io:resid-ncia-de-software/boilerplates/api-typescript-fastify-prisma.git
+  git clone [git@git.cubos.io:resid-ncia-de-software/boilerplates/api-typescript-fastify-prisma.git](https://github.com/vanderL/boilerplate-nodejs-fastify-prisma.git)
 ```
 
 Entre no diretório do projeto
